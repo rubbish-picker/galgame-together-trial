@@ -21,7 +21,7 @@ ERROR: Shader Hidden/Universal Render Pipeline/DBufferClear shader is not suppor
 <RI> Initializing input.
 Using Windows.Gaming.Input
 <RI> Initialized touch support.
-UnloadTime: 0.229600 ms
+UnloadTime: 0.192600 ms
 RenderGraph is now enabled.
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -38,3 +38,5 @@ UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipeline
 Input System module state changed to: ShutdownInProgress.
 Input System polling thread exited.
 Input System module state changed to: Shutdown.
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
