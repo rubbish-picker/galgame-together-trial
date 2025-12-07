@@ -2,15 +2,15 @@ Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Initialize engine version: 6000.0.48f1 (170d2541580d)
-[Subsystems] Discovering subsystems at path D:/BaiduNetdiskDownload/魔裁/MOFASHAONV/manosaba_game/manosaba_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/game/MOFASHAONV/manosaba_game/manosaba_Data/UnitySubsystems
 kGfxThreadingModeSplitJobs is not supported on Direct3D 11. Reverting to kGfxThreadingModeClientWorkerJobs instead.
 GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Renderer: NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
     Vendor:   NVIDIA
-    VRAM:     7957 MB
-    Driver:   32.0.15.5597
+    VRAM:     7948 MB
+    Driver:   32.0.15.6624
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -21,7 +21,7 @@ ERROR: Shader Hidden/Universal Render Pipeline/DBufferClear shader is not suppor
 <RI> Initializing input.
 Using Windows.Gaming.Input
 <RI> Initialized touch support.
-UnloadTime: 0.192600 ms
+UnloadTime: 1.863400 ms
 RenderGraph is now enabled.
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
@@ -33,10 +33,332 @@ UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
 UnityEngine.Rendering.RenderPipelineManager:TryPrepareRenderPipeline(RenderPipelineAsset)
 UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, Object)
 
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Adding null Transform to TransformAccessArray will result in degraded performance.
+UnityEngine.U2D.Animation.TransformAccessJob:UpdateTransformIndex()
+UnityEngine.U2D.Animation.BaseDeformationSystem:PrepareDataForDeformation(JobHandle&, JobHandle&)
+UnityEngine.U2D.Animation.GpuDeformationSystem:Update()
+UnityEngine.U2D.Animation.DeformationManagerUpdater:LateUpdate()
+
+[ line -455154472]
+
+Naninovel script 'Act02_Chapter06/Act02_Chapter06_Trial04' at line #927.0: 効果音がロードされていません：Sfx_System_SaveData_001_2x
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Naninovel.Command:Warn(String)
+WitchTrials.Views.PlaySfxModified:PlayOrModifyTrack(IAudioManager, String, Single, Boolean, Single, Single, String, AsyncToken)
+WitchTrials.Views.<Play>d__0:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+WitchTrials.Views.PlaySfxModified:Play(AsyncToken)
+Naninovel.<WaitOrForget>d__35:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.Command:WaitOrForget(Func`2, BooleanParameter, AsyncToken)
+Naninovel.Commands.PlaySfx:Execute(AsyncToken)
+Naninovel.<ExecuteIgnoringCancellation>d__125:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptPlayer:ExecuteIgnoringCancellation(Command, AsyncToken)
+Naninovel.<ExecutePlayedCommand>d__124:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptPlayer:ExecutePlayedCommand(AsyncToken)
+Naninovel.<PlayRoutine>d__126:MoveNext()
+Naninovel.Async.CompilerServices.AsyncUniTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.ScriptPlayer:PlayRoutine(AsyncToken)
+Naninovel.ScriptPlayer:Resume(Nullable`1)
+Naninovel.UIChoiceHandler:NavigateToNested(PlaybackSpot)
+Naninovel.<HandleChoice>d__34:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:Start(TStateMachine&)
+Naninovel.UIChoiceHandler:HandleChoice(ChoiceState)
+Naninovel.UI.<>c__DisplayClass19_0:<AddChoiceButton>b__1()
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
 Input System polling thread exited.
 Input System module state changed to: Shutdown.
-Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
-To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
